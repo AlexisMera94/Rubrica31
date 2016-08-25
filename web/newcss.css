@@ -1,0 +1,92 @@
+body
+{
+    background-color: white;
+    
+   
+}
+img
+{
+    max-width: 100%;
+}
+.quitar-float{
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 100px;
+}
+.pacifico{
+    font-family: 'Pacifico', cursive;
+}
+.bree{
+    font-family: 'Bree Serif', serif;
+}
+
+.grande{
+    font-size: 40px;
+}
+.verde{
+    color: darkgreen;
+}
+a{
+    color: red;
+}
+.espacio-derecha{
+    margin-right: 1em;
+}
+/*
+css de menu.html
+*/
+.no-lista{
+    margin: 0px;
+    padding: 0px;
+}
+.no-lista li{
+    list-style-type: none;
+}
+.se-gris{
+    background-color: grey;
+}
+.pading-largo{
+    padding: 5px 10px; 
+}
+.inlene-block{
+    float: none;
+    display: inline-block;
+}
+.titulo-recetas{
+    font-size: 50px;
+    color: black;
+   
+}
+.tamaño-buscar{
+    font-size: 30px;
+    position: absolute;
+    top:   80px;
+    right: 250px;
+    color: black;
+}
+.tamaño-cuadro-buscar{
+    font-size: 15px;
+    position: absolute;
+    top: 100px;
+    right: 30px;
+}
+.cursor{
+    cursor: pointer;
+}
+.tamaño-lista
+{
+    font-size: 25px;
+    color: white;
+    
+}
+.color-articulo{
+    color: white;
+    font-size: 30px;
+}
+.tamaño-imagenes{
+    width: 500px;
+}
+.clase-body{
+    background-image: url(88014549_XS.jpg);
+}
